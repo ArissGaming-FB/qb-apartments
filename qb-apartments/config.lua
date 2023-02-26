@@ -47,7 +47,8 @@ Apartments.Locations = {
         name = "apartment3",
         label = "Integrity Way",
         coords = {
-            enter = vector4(280.66, -652.12, 42.02, 342.31),
+            --enter = vector4(280.66, -652.12, 42.02, 342.31),--Honeynutt Custom's Integrity Apartments Lobby
+            enter = vector4(268.48, -643.49, 42.02, 250.12),--no lobby map deafult
         },
         polyzoneBoxData = {
             heading = 250,
